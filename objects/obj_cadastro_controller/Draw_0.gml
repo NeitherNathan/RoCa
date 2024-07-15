@@ -1,0 +1,11 @@
+draw_set_color(c_black);
+draw_set_font(fnt_lato_18);
+draw_set_halign(fa_left);
+draw_set_valign(fa_middle);
+draw_text(10, 250, "Nome:");
+draw_text(10, 350, "Data de nascimento:");
+draw_text(10, 450, "Cidade/Estado:");
+var _metade_tela = room_width / 2;
+draw_text(_metade_tela + 10, 250, "Telefone para contato:");
+draw_text(_metade_tela + 10, 350, "E-mail para contato:");
+draw_text(_metade_tela + 10, 450, "Nome do responsável:");

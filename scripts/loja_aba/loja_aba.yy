@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"loja_aba",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"loja_aba",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

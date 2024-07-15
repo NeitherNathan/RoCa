@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"enviar_leads",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enviar_leads",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Input/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

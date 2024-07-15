@@ -1,0 +1,10 @@
+draw_self();
+draw_set_color(c_dkgrey);
+draw_set_font(fnt_luckiest_guy_36);
+draw_set_halign(fa_center);
+draw_set_valign(fa_top);
+draw_text(x, bbox_top + 25, global.skins[skin_index].nome);
+draw_set_color(c_black);
+draw_set_valign(fa_middle);
+draw_sprite_ext(global.skins[skin_index].correr, (get_timer() / 1000000) * 24, x, y - 20, 0.5, 0.5, 0, c_white, 1);
+//draw_sprite_general(global.skins[skin_index].correr, (get_timer() / 1000000) * 24, 0, 0, 400, 400, x, y, 1, 1, 0, c_red, c_green, c_blue, c_white, 1);

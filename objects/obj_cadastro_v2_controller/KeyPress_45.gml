@@ -1,0 +1,11 @@
+inst_cadastro_v2_nome.texto_input = "TESTE TAMANHO CAIXA DE TEXTO ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+inst_cadastro_v2_nascimento.texto_input = "20";
+//inst_cadastro_v2_nascimento.idade = date_get_year(date_current_datetime());
+inst_cadastro_v2_cidade.texto_input = "CIDADE TESTE";
+inst_cadastro_v2_telefone.texto_input = "99999999999";
+inst_cadastro_v2_email.texto_input = "email@email.com";
+inst_cadastro_v2_responsavel.texto_input = "RESPONSAVEL TESTE";
+inst_cadastro_v2_termo_aceitar.is_on = true;
+global.cadastro_estado = inst_cadastro_estado_PR_parana.id;
+pagina_atual = global.cadastro_paginas;
+cadastro_v2_atualizar_input_selecionado();

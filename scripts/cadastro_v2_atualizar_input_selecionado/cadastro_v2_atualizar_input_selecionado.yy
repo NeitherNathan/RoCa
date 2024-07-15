@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cadastro_v2_atualizar_input_selecionado",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cadastro_v2_atualizar_input_selecionado",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

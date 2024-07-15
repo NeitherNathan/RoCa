@@ -1,0 +1,11 @@
+event_inherited();
+draw_sprite(spr_figma_ui_cadastro, 0, bbox_left + 100, y - 5);
+draw_set_color(global.cor_azul);
+draw_set_font(fnt_luckiest_guy_36);
+draw_set_halign(fa_center);
+draw_set_valign(fa_middle);
+draw_text(x - 50, y + 10, "Cadastre-se e ganhe " + string(global.cadastro_recompenca) + " moedas");
+draw_sprite(spr_figma_ui_recorde, 0, bbox_right - 150, y - 5);
+draw_set_color(c_white);
+draw_set_font(fnt_luckiest_guy_24);
+draw_text(bbox_right - 150, y + 5, "COMEÇAR");

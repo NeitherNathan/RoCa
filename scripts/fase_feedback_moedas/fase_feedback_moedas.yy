@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"fase_feedback_moedas",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fase_feedback_moedas",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

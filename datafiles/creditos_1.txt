@@ -1,0 +1,19 @@
+Idealizadores:
+Consultório RoCa:
+                - Rogério Cupertino
+                - Carime Henrique Barboza
+
+Desenvolvedores:
+Produtor Executivo: Bruno Ramiro Calegari
+Game Designer / Level Designer: Bruno Ramiro Calegari
+Sound Designer: Bruno Ramiro Calegari
+Programador: Bruno Hoffmann de Mattos
+Artista 2D de Personagem e Cenário: Julio Felipe Haruo Kawamoto
+Animador: Julio Felipe Haruo Kawamoto
+Artista de Interface: Julio Felipe Haruo Kawamoto
+
+Suporte:
+Brandown
+Artur Mittelbach
+Derick Davidson Cordeiro
+Apoena de Melo Santos

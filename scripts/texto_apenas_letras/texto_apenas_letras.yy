@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"texto_apenas_letras",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"texto_apenas_letras",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Input/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

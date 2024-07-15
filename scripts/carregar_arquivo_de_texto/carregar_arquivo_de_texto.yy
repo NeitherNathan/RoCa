@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"carregar_arquivo_de_texto",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"carregar_arquivo_de_texto",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

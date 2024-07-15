@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"texto_mostrar_mensagem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"texto_mostrar_mensagem",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Input/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

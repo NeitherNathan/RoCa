@@ -1,0 +1,1 @@
+camera_x_ultimo_frame = noone;

@@ -1,0 +1,1 @@
+//show_debug_message("Destruindo " + object_get_name(object_index));
