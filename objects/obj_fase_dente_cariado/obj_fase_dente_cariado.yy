@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_fase_dente_cariado",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_fase_coletavel_base","path":"objects/obj_fase_coletavel_base/obj_fase_coletavel_base.yy",},"propertyId":{"name":"moedas","path":"objects/obj_fase_coletavel_base/obj_fase_coletavel_base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"-10",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_fase_coletavel_base","path":"objects/obj_fase_coletavel_base/obj_fase_coletavel_base.yy",},"propertyId":{"name":"moedas","path":"objects/obj_fase_coletavel_base/obj_fase_coletavel_base.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"-10",},
   ],
   "parent":{
     "name":"Objetos",

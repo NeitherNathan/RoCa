@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"enviar_leads",
   "isCompatibility":false,
   "isDnD":false,

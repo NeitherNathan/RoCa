@@ -2,13 +2,13 @@
   "$GMObject":"",
   "%Name":"obj_leads_input_data",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_leads_input_data",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_leads_input_mascara","path":"objects/obj_leads_input_mascara/obj_leads_input_mascara.yy",},"propertyId":{"name":"texto_mascara","path":"objects/obj_leads_input_mascara/obj_leads_input_mascara.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"00/00/0000\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_leads_input_mascara","path":"objects/obj_leads_input_mascara/obj_leads_input_mascara.yy",},"propertyId":{"name":"texto_mascara","path":"objects/obj_leads_input_mascara/obj_leads_input_mascara.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"00/00/0000\"",},
   ],
   "parent":{
     "name":"Objects",

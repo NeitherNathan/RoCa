@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"carregar_arquivo_de_texto",
   "isCompatibility":false,
   "isDnD":false,

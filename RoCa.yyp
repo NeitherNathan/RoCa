@@ -102,7 +102,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.6.1.160",
   },
   "name":"RoCa",
   "resources":[
@@ -130,6 +130,7 @@
     {"id":{"name":"obj_cadastro_v2_dados","path":"objects/obj_cadastro_v2_dados/obj_cadastro_v2_dados.yy",},},
     {"id":{"name":"obj_cadastro_v2_editar","path":"objects/obj_cadastro_v2_editar/obj_cadastro_v2_editar.yy",},},
     {"id":{"name":"obj_cadastro_v2_estado","path":"objects/obj_cadastro_v2_estado/obj_cadastro_v2_estado.yy",},},
+    {"id":{"name":"obj_cadastro_v2_input_telefone","path":"objects/obj_cadastro_v2_input_telefone/obj_cadastro_v2_input_telefone.yy",},},
     {"id":{"name":"obj_cadastro_v2_progresso","path":"objects/obj_cadastro_v2_progresso/obj_cadastro_v2_progresso.yy",},},
     {"id":{"name":"obj_cadastro_v2_teclado_fundo","path":"objects/obj_cadastro_v2_teclado_fundo/obj_cadastro_v2_teclado_fundo.yy",},},
     {"id":{"name":"obj_cadastro_v2_termo_aceitar","path":"objects/obj_cadastro_v2_termo_aceitar/obj_cadastro_v2_termo_aceitar.yy",},},
@@ -263,7 +264,6 @@
     {"id":{"name":"obj_quiz_pergunta","path":"objects/obj_quiz_pergunta/obj_quiz_pergunta.yy",},},
     {"id":{"name":"obj_quiz_titulo","path":"objects/obj_quiz_titulo/obj_quiz_titulo.yy",},},
     {"id":{"name":"obj_teste_codigo","path":"objects/obj_teste_codigo/obj_teste_codigo.yy",},},
-    {"id":{"name":"obj_cadastro_v2_input_telefone","path":"objects/obj_cadastro_v2_input_telefone/obj_cadastro_v2_input_telefone.yy",},},
     {"id":{"name":"rm_abertura","path":"rooms/rm_abertura/rm_abertura.yy",},},
     {"id":{"name":"rm_cadastro_02","path":"rooms/rm_cadastro_02/rm_cadastro_02.yy",},},
     {"id":{"name":"rm_coletando_dente","path":"rooms/rm_coletando_dente/rm_coletando_dente.yy",},},

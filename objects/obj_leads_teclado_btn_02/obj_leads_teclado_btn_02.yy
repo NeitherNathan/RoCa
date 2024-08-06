@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_leads_teclado_btn_02",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_leads_teclado_btn","path":"objects/obj_leads_teclado_btn/obj_leads_teclado_btn.yy",},"propertyId":{"name":"color_char","path":"objects/obj_leads_teclado_btn/obj_leads_teclado_btn.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"$FF745E15",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_leads_teclado_btn","path":"objects/obj_leads_teclado_btn/obj_leads_teclado_btn.yy",},"propertyId":{"name":"color_char","path":"objects/obj_leads_teclado_btn/obj_leads_teclado_btn.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"$FF745E15",},
   ],
   "parent":{
     "name":"Objects",

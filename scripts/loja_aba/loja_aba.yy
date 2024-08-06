@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"loja_aba",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"texto_aplicar_mascara",
   "isCompatibility":false,
   "isDnD":false,
