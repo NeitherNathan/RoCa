@@ -2,13 +2,13 @@
   "$GMObject":"",
   "%Name":"obj_leads_btn_fechar",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_leads_btn_fechar",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_navigation_base","path":"objects/obj_navigation_base/obj_navigation_base.yy",},"propertyId":{"name":"is_button","path":"objects/obj_navigation_base/obj_navigation_base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"True",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_navigation_base","path":"objects/obj_navigation_base/obj_navigation_base.yy",},"propertyId":{"name":"is_button","path":"objects/obj_navigation_base/obj_navigation_base.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"True",},
   ],
   "parent":{
     "name":"Objects",

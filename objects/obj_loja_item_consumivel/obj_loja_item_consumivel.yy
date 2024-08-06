@@ -2,8 +2,8 @@
   "$GMObject":"",
   "%Name":"obj_loja_item_consumivel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_loja_item_consumivel",
@@ -30,12 +30,12 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"","%Name":"tipo_powerup","filters":[],"listItems":[
+    {"$GMObjectProperty":"v1","%Name":"tipo_powerup","filters":[],"listItems":[
         "\"Escudo\"",
         "\"Imã\"",
         "\"Vida Extra\"",
-      ],"multiselect":false,"name":"tipo_powerup","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Escudo\"","varType":6,},
-    {"$GMObjectProperty":"","%Name":"descricao","filters":[],"listItems":[],"multiselect":false,"name":"descricao","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"[No aguardo das descrições]\"","varType":2,},
+      ],"multiselect":false,"name":"tipo_powerup","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Escudo\"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"descricao","filters":[],"listItems":[],"multiselect":false,"name":"descricao","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"[No aguardo das descrições]\"","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

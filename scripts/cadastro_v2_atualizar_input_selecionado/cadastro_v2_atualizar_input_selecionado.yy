@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"cadastro_v2_atualizar_input_selecionado",
   "isCompatibility":false,
   "isDnD":false,

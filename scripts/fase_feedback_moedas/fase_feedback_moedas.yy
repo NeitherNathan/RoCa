@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"fase_feedback_moedas",
   "isCompatibility":false,
   "isDnD":false,

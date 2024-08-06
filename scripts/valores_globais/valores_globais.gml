@@ -265,70 +265,70 @@ global.skins =
 		pular  : spr_roca_variation_03_ro_jump,
 		voar   : spr_roca_variation_03_ro_fly,
 		is_ca  : false,
-		nome   : "Ro - Cor 1"
+		nome   : "Ro 1"
 	},
 	{ // 03
 		correr : spr_roca_variation_01_ca_run,
 		pular  : spr_roca_variation_01_ca_jump,
 		voar   : spr_roca_variation_01_ca_fly,
 		is_ca  : true,
-		nome   : "Ca - Cor 1"
+		nome   : "Ca 1"
 	},
 	{ // 04
 		correr : spr_roca_variation_02_ro_run,
 		pular  : spr_roca_variation_02_ro_jump,
 		voar   : spr_roca_variation_02_ro_fly,
 		is_ca  : false,
-		nome   : "Ro - Cor 2"
+		nome   : "Ro 2"
 	},
 	{ // 05
 		correr : spr_roca_variation_02_ca_run,
 		pular  : spr_roca_variation_02_ca_jump,
 		voar   : spr_roca_variation_02_ca_fly,
 		is_ca  : true,
-		nome   : "Ca - Cor 2"
+		nome   : "Ca 2"
 	},
 	{ // 06
 		correr : spr_roca_variation_04_ro_run,
 		pular  : spr_roca_variation_04_ro_jump,
 		voar   : spr_roca_variation_04_ro_fly,
 		is_ca  : false,
-		nome   : "Ro - Cor 3"
+		nome   : "Ro 3"
 	},
 	{ // 07
 		correr : spr_roca_variation_03_ca_run,
 		pular  : spr_roca_variation_03_ca_jump,
 		voar   : spr_roca_variation_03_ca_fly,
 		is_ca  : true,
-		nome   : "Ca - Cor 3"
+		nome   : "Ca 3"
 	},
 	{ // 08
 		correr : spr_roca_variation_01_ro_run,
 		pular  : spr_roca_variation_01_ro_jump,
 		voar   : spr_roca_variation_01_ro_fly,
 		is_ca  : false,
-		nome   : "Ro - Cor 4"
+		nome   : "Ro 4"
 	},
 	{ // 09
 		correr : spr_roca_variation_04_ca_run,
 		pular  : spr_roca_variation_04_ca_jump,
 		voar   : spr_roca_variation_04_ca_fly,
 		is_ca  : true,
-		nome   : "Ca - Cor 4"
+		nome   : "Ca 4"
 	},
 	{ // 10
 		correr : spr_roca_variation_05_ro_run,
 		pular  : spr_roca_variation_05_ro_jump,
 		voar   : spr_roca_variation_05_ro_fly,
 		is_ca  : false,
-		nome   : "Ro - Cor 5"
+		nome   : "Ro 5"
 	},
 	{ // 11
 		correr : spr_roca_variation_05_ca_run,
 		pular  : spr_roca_variation_05_ca_jump,
 		voar   : spr_roca_variation_05_ca_fly,
 		is_ca  : true,
-		nome   : "Ca - Cor 5"
+		nome   : "Ca 5"
 	},
 	{ // 12
 		correr : spr_roca_spy_ro_run,
