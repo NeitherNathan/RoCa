@@ -8,7 +8,8 @@ function cadastro_v2_atualizar_input_selecionado()
 		noone,
 		inst_cadastro_v2_telefone,
 		inst_cadastro_v2_email,
-		inst_cadastro_v2_responsavel
+		inst_cadastro_v2_responsavel,
+		inst_cadastro_v2_parentesco
 	];
 	for (var _i = 0; _i < array_length(_lista_input); _i++)
 	{

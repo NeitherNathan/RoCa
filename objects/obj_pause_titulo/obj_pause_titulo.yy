@@ -8,8 +8,8 @@
   "name":"obj_pause_titulo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Pause",
-    "path":"folders/Objects/Pause.yy",
+    "name":"__obsoleto",
+    "path":"folders/__obsoleto.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -34,5 +34,5 @@
     "path":"sprites/pause_title/pause_title.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

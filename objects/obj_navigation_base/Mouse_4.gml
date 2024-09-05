@@ -8,6 +8,6 @@ if (visible && layer_get_visible(layer))
 	is_selected = true;
 	if (is_button)
 	{
-		image_index = 2 + index_inicial;
+		image_index = 2 + image_speed;
 	}
 }

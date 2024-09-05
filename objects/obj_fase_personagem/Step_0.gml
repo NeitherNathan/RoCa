@@ -1,3 +1,6 @@
+if (game_is_freezed())
+	return;
+
 event_inherited();
 velocidade_y += gravidade;
 y += velocidade_y;

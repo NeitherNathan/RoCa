@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"LVL2TOLVL1",
-    "path":"folders/Sprites/Cenários/Transitions/LVL2TOLVL1.yy",
+    "path":"folders/Graphics/Cenários/Transitions/LVL2TOLVL1.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

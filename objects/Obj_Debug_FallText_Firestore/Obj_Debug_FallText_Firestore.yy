@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Testing",
-    "path":"folders/Firebase Firestore/Testing.yy",
+    "path":"folders/Mobile Assets/Firebase Firestore/Testing.yy",
   },
   "parentObjectId":null,
   "persistent":false,

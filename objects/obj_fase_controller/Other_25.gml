@@ -82,4 +82,4 @@ switch (room)
 }
 var _layer = layer_get_id("Assets_Prefab");
 ultimo_prefab = layer_sequence_create(_layer, room_width * 2, (room_height / 2) + _y_offset, _lista_sequence[irandom(array_length(_lista_sequence) - 1)]);
-//show_debug_message("Criando prefab");
+show_debug_message("Criando prefab");

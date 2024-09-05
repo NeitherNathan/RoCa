@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Query",
-    "path":"folders/Firebase RealTime/Testing/Query.yy",
+    "path":"folders/Mobile Assets/Firebase RealTime/Testing/Query.yy",
   },
   "parentObjectId":null,
   "persistent":false,

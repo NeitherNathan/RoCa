@@ -5,6 +5,7 @@ inst_cadastro_v2_cidade.texto_input = "CIDADE TESTE";
 inst_cadastro_v2_telefone.texto_input = "99999999999";
 inst_cadastro_v2_email.texto_input = "email@email.com";
 inst_cadastro_v2_responsavel.texto_input = "RESPONSAVEL TESTE";
+inst_cadastro_v2_parentesco.texto_input = "PARENTESCO";
 inst_cadastro_v2_termo_aceitar.is_on = true;
 global.cadastro_estado = inst_cadastro_estado_PR_parana.id;
 pagina_atual = global.cadastro_paginas;

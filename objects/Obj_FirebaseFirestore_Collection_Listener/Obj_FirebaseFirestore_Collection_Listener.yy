@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"CRUD",
-    "path":"folders/Firebase Firestore/Testing/CRUD.yy",
+    "path":"folders/Mobile Assets/Firebase Firestore/Testing/CRUD.yy",
   },
   "parentObjectId":null,
   "persistent":false,

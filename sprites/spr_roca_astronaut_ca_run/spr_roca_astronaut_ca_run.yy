@@ -46,7 +46,7 @@
   "origin":4,
   "parent":{
     "name":"RoCa - Astronaut",
-    "path":"folders/Sprites/Animação/RoCa - Astronaut.yy",
+    "path":"folders/Graphics/Animação/RoCa - Astronaut.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

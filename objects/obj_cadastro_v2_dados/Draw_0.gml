@@ -9,11 +9,12 @@ switch (info)
 	case "Telefone":    _target = inst_cadastro_v2_telefone.id;    break;
 	case "Email":       _target = inst_cadastro_v2_email.id;       break;
 	case "Responsavel": _target = inst_cadastro_v2_responsavel.id; break;
+	case "Parentesco":  _target = inst_cadastro_v2_parentesco.id; break;
 }
 if (mensagem_erro != "")
 {
 	draw_set_color(c_red);
-	draw_set_font(fnt_luckiest_guy_24);
+	draw_set_font(fnt_luckiest_guy_16);
 	draw_set_valign(fa_middle);
 	if (xstart < room_width / 2)
 	{
@@ -50,8 +51,8 @@ switch (info)
 		break;
 		
 	case "Telefone":
-		var _texto_mascara_alternativa = "+000 (000) 0000-0000";
-		var _texto_mascara = "+000 (000) 00000-0000";
+		var _texto_mascara_alternativa = "(00) 00000-0000";
+		var _texto_mascara = "(00) 00000-0000";
 		if (string_length(_target.texto_input) <= string_length(string_digits(_texto_mascara_alternativa)))
 		{
 			_texto_final = texto_aplicar_mascara(_target.texto_input, _texto_mascara_alternativa, false);

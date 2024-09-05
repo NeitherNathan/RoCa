@@ -215,7 +215,7 @@
   "name":"fnt_luckiest_guy_36",
   "parent":{
     "name":"Fonts",
-    "path":"folders/Fonts.yy",
+    "path":"folders/Graphics/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[

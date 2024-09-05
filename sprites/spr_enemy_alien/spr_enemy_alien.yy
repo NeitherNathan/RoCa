@@ -73,7 +73,7 @@
   "origin":4,
   "parent":{
     "name":"Enemy",
-    "path":"folders/Sprites/Animação/Enemy.yy",
+    "path":"folders/Graphics/Animação/Enemy.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

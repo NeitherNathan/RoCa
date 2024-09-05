@@ -41,7 +41,7 @@
   "origin":4,
   "parent":{
     "name":"RoCa - Standard",
-    "path":"folders/Sprites/Animação/RoCa - Standard.yy",
+    "path":"folders/Graphics/Animação/RoCa - Standard.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -104,7 +104,7 @@
   "origin":4,
   "parent":{
     "name":"Adereços",
-    "path":"folders/Sprites/Animação/Adereços.yy",
+    "path":"folders/Graphics/Animação/Adereços.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

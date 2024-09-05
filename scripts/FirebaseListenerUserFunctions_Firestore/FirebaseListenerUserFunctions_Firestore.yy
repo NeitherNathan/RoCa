@@ -6,7 +6,7 @@
   "name":"FirebaseListenerUserFunctions_Firestore",
   "parent":{
     "name":"Listeners Firestore",
-    "path":"folders/Firebase Firestore/Extensions/Firebase REST API Library (Don't Touch)/Listeners Firestore.yy",
+    "path":"folders/Mobile Assets/Firebase Firestore/Extensions/Firebase REST API Library (Don't Touch)/Listeners Firestore.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

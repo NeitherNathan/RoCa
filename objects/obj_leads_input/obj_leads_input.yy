@@ -38,17 +38,17 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"apenas_letras","filters":[],"listItems":[],"multiselect":false,"name":"apenas_letras","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"apenas_letras","filters":[],"listItems":[],"multiselect":false,"name":"apenas_letras","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":3,},
     {"$GMObjectProperty":"v1","%Name":"som_teclado","filters":[
         "GMSound",
-      ],"listItems":[],"multiselect":false,"name":"som_teclado","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"noone","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"permitir_espaco","filters":[],"listItems":[],"multiselect":false,"name":"permitir_espaco","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
+      ],"listItems":[],"multiselect":false,"name":"som_teclado","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"noone","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"permitir_espaco","filters":[],"listItems":[],"multiselect":false,"name":"permitir_espaco","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
     {"$GMObjectProperty":"v1","%Name":"estilo_letra","filters":[],"listItems":[
         "\"UPPER_CASE\"",
         "\"lower_case\"",
-      ],"multiselect":false,"name":"estilo_letra","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"UPPER_CASE\"","varType":6,},
-    {"$GMObjectProperty":"v1","%Name":"texto_info","filters":[],"listItems":[],"multiselect":false,"name":"texto_info","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\"","varType":2,},
-    {"$GMObjectProperty":"v1","%Name":"cadastro_pagina","filters":[],"listItems":[],"multiselect":false,"name":"cadastro_pagina","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+      ],"multiselect":false,"name":"estilo_letra","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"UPPER_CASE\"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"texto_info","filters":[],"listItems":[],"multiselect":false,"name":"texto_info","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\"","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"cadastro_pagina","filters":[],"listItems":[],"multiselect":false,"name":"cadastro_pagina","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

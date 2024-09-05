@@ -46,7 +46,7 @@
   "origin":4,
   "parent":{
     "name":"RoCa - Spy",
-    "path":"folders/Sprites/Animação/RoCa - Spy.yy",
+    "path":"folders/Graphics/Animação/RoCa - Spy.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

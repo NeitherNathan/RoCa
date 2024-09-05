@@ -41,7 +41,7 @@
   "packageId":"",
   "parent":{
     "name":"Mediations",
-    "path":"folders/AdMob/Extensions/Mediations.yy",
+    "path":"folders/Mobile Assets/AdMob/Extensions/Mediations.yy",
   },
   "productId":"",
   "resourceType":"GMExtension",

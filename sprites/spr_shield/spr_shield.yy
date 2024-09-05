@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Colectables",
-    "path":"folders/Sprites/Game_Maker_Assets/Colectables.yy",
+    "path":"folders/Graphics/Game_Maker_Assets/Colectables.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

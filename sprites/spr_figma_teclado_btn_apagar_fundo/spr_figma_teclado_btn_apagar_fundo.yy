@@ -45,7 +45,7 @@
   "origin":4,
   "parent":{
     "name":"Figma",
-    "path":"folders/Sprites/Figma.yy",
+    "path":"folders/Graphics/Figma.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

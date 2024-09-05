@@ -1,3 +1,6 @@
+if (global.morte)
+	return;
+
 event_inherited();
 if (mouse_check_button(mb_left) || keyboard_check(vk_space) || keyboard_check(vk_up))
 {

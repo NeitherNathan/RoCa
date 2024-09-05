@@ -1,3 +1,6 @@
+if (game_is_freezed())
+	return;
+
 if (pulos > 0)
 {
 	velocidade_y = -forca_pulo;

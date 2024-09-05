@@ -1710,7 +1710,7 @@
   "name":"fnt_lato_18",
   "parent":{
     "name":"Fonts",
-    "path":"folders/Fonts.yy",
+    "path":"folders/Graphics/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[

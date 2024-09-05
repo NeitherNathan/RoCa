@@ -4,6 +4,8 @@ function scr_fade()
 	alpha_fade = clamp(alpha_fade + (fade * 0.03), 0, 1.0);
 	if(alpha_fade == 1)
 	{
+		global.pause = false;
+		global.morte = false;
 		room_goto(global.room_depois_fade);
 		fade = -1;
 	}

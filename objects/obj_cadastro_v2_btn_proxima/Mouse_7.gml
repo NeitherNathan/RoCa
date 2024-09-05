@@ -35,6 +35,7 @@ if (!position_meeting(mouse_x, mouse_y, obj_cadastro_v2_teclado_fundo) && visibl
 				telefone : texto_aplicar_mascara(inst_cadastro_v2_telefone.texto_input, inst_cadastro_v2_telefone.texto_mascara, false),
 			    email : inst_cadastro_v2_email.texto_input,
 			    responsavel : inst_cadastro_v2_responsavel.texto_input,
+				parentesco :  inst_cadastro_v2_parentesco.texto_input,
 				data_cadastro : date_datetime_string(date_current_datetime()),
 				plataforma : _plataforma,
 				versao : GM_version,

@@ -6,7 +6,7 @@
   "name":"FirebasePathsUserFunctions",
   "parent":{
     "name":"Firebase Utils",
-    "path":"folders/Firebase Utils.yy",
+    "path":"folders/Mobile Assets/Firebase Utils.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

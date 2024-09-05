@@ -1,6 +1,4 @@
-if (other.object_index != obj_fase_dente_quiz)// && 
-	//other.object_index != obj_inimigo_carro   && 
-	//other.object_index != obj_fase_moeda)
+if (other.object_index != obj_fase_dente_quiz)
 {
 	if (other.in_sequence)
 	{

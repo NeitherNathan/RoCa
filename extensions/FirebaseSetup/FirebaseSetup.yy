@@ -57,8 +57,8 @@
   "optionsFile":"options.json",
   "packageId":"",
   "parent":{
-    "name":"RoCa",
-    "path":"RoCa.yyp",
+    "name":"Mobile Assets",
+    "path":"folders/Mobile Assets.yy",
   },
   "productId":"",
   "resourceType":"GMExtension",

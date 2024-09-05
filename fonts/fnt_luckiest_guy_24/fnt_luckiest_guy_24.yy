@@ -210,12 +210,12 @@
   "italic":false,
   "kerningPairs":[],
   "last":0,
-  "lineHeight":0,
+  "lineHeight":33,
   "maintainGms1Font":false,
   "name":"fnt_luckiest_guy_24",
   "parent":{
     "name":"Fonts",
-    "path":"folders/Fonts.yy",
+    "path":"folders/Graphics/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[
@@ -232,6 +232,6 @@
     "name":"Fonts",
     "path":"texturegroups/Fonts",
   },
-  "TTFName":"",
+  "TTFName":"E:\\GITProjects\\RoCa2\\RoCa\\fonts\\fnt_luckiest_guy_24\\LuckiestGuy-Regular.ttf",
   "usesSDF":false,
 }

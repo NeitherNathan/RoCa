@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Backgrounds and boxes",
-    "path":"folders/Sprites/Game_Maker_Assets/Backgrounds and boxes.yy",
+    "path":"folders/Graphics/Game_Maker_Assets/Backgrounds and boxes.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

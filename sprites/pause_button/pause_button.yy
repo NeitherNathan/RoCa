@@ -26,7 +26,7 @@
   "origin":5,
   "parent":{
     "name":"Buttons",
-    "path":"folders/Sprites/Game_Maker_Assets/Buttons.yy",
+    "path":"folders/Graphics/Game_Maker_Assets/Buttons.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

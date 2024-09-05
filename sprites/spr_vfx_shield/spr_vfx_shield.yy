@@ -46,7 +46,7 @@
   "origin":4,
   "parent":{
     "name":"VFX",
-    "path":"folders/Sprites/Animação/VFX.yy",
+    "path":"folders/Graphics/Animação/VFX.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

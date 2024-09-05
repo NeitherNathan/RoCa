@@ -10,6 +10,7 @@ switch (info)
 	case "Telefone":    _target = inst_cadastro_v2_telefone.id;    break;
 	case "Email":       _target = inst_cadastro_v2_email.id;       break;
 	case "Responsavel": _target = inst_cadastro_v2_responsavel.id; break;
+	case "Parentesco":	_target = inst_cadastro_v2_parentesco.id; break;
 }
 mensagem_erro = "";
 switch (info)
@@ -46,7 +47,7 @@ switch (info)
 		break;
 		
 	case "Telefone":
-		if (string_length(_target.texto_input) < 14)
+		if (string_length(_target.texto_input) < 11)
 		{
 			mensagem_erro = "TELEFONE INCOMPLETO";
 		}
@@ -80,6 +81,18 @@ switch (info)
 		}
 		break;
 		
+		case "Parentesco":
+		var _idade2 = 0;
+		if (inst_cadastro_v2_nascimento.texto_input != "")
+		{
+			_idade2 = int64(inst_cadastro_v2_nascimento.texto_input)
+		}
+		if (string_length(_target.texto_input) == 0 && _idade2 < 18)
+		{
+			mensagem_erro = "OBRIGATÓRIO PARA MENORES DE 18 ANOS";
+		}
+		break;
+			
 	case "Termo":
 		if (!inst_cadastro_v2_termo_aceitar.is_on)
 		{

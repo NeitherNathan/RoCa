@@ -11,7 +11,7 @@
   "managed":true,
   "name":"obj_inimigo_macaco",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_fase_objeto_base","path":"objects/obj_fase_objeto_base/obj_fase_objeto_base.yy",},"propertyId":{"name":"objeto_index","path":"objects/obj_fase_objeto_base/obj_fase_objeto_base.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_fase_objeto_base","path":"objects/obj_fase_objeto_base/obj_fase_objeto_base.yy",},"propertyId":{"name":"objeto_index","path":"objects/obj_fase_objeto_base/obj_fase_objeto_base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
   ],
   "parent":{
     "name":"Objetos",

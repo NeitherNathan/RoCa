@@ -31,7 +31,7 @@
   "origin":4,
   "parent":{
     "name":"Objetos",
-    "path":"folders/Sprites/Objetos.yy",
+    "path":"folders/Graphics/Objetos.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

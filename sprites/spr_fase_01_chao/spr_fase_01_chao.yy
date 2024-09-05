@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"LVL 1",
-    "path":"folders/Sprites/Cenários/LVL 1.yy",
+    "path":"folders/Graphics/Cenários/LVL 1.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

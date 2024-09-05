@@ -176,7 +176,7 @@
   "packageId":"",
   "parent":{
     "name":"Extensions",
-    "path":"folders/AdMob/Extensions.yy",
+    "path":"folders/Mobile Assets/AdMob/Extensions.yy",
   },
   "productId":"",
   "resourceType":"GMExtension",

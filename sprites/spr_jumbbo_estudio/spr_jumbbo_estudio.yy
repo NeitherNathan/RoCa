@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Game_Maker_Assets",
-    "path":"folders/Sprites/Game_Maker_Assets.yy",
+    "path":"folders/Graphics/Game_Maker_Assets.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

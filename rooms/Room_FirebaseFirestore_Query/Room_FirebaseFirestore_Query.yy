@@ -42,7 +42,7 @@
   "name":"Room_FirebaseFirestore_Query",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Firebase Firestore/Rooms.yy",
+    "path":"folders/Mobile Assets/Firebase Firestore/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

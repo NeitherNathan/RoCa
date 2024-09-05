@@ -29,7 +29,7 @@
     {"$GMObjectProperty":"v1","%Name":"estatistica","filters":[],"listItems":[
         "\"Distancia\"",
         "\"Moedas\"",
-      ],"multiselect":false,"name":"estatistica","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Distancia\"","varType":6,},
+      ],"multiselect":false,"name":"estatistica","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Distancia\"","varType":6,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

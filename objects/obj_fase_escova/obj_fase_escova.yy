@@ -1,11 +1,14 @@
 {
   "$GMObject":"",
   "%Name":"obj_fase_escova",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_fase_escova",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_fase_coletavel_base","path":"objects/obj_fase_coletavel_base/obj_fase_coletavel_base.yy",},"propertyId":{"name":"moedas","path":"objects/obj_fase_coletavel_base/obj_fase_coletavel_base.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_fase_coletavel_base","path":"objects/obj_fase_coletavel_base/obj_fase_coletavel_base.yy",},"propertyId":{"name":"moedas","path":"objects/obj_fase_coletavel_base/obj_fase_coletavel_base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
   ],
   "parent":{
     "name":"Objetos",

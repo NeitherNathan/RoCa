@@ -43,7 +43,7 @@
   "origin":4,
   "parent":{
     "name":"RoCa - Variation1",
-    "path":"folders/Sprites/Animação/RoCa - Variation1.yy",
+    "path":"folders/Graphics/Animação/RoCa - Variation1.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

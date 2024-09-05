@@ -1,0 +1,1 @@
+audio_play_sound(snd_fim_de_jogo, 10, false);
