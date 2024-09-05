@@ -14,9 +14,9 @@
 
 	if (room == rm_fase_03)
 	{
-		if(velocidade <= 30)
+		if(velocidade <= limite_fase03)
 		{
-		velocidade += 0.005;
+		velocidade += aceleracao;
 		}
 		show_debug_message(velocidade);
 
@@ -56,7 +56,8 @@
 		//if (_sequence_x_mais_longe < room_width) || keyboard_check_pressed(vk_f2)
 		if (timer_to_spawn_next_prefab <= 0)
 		{
-			var _seconds = 2;
+			//valor inicial = 2; 
+			var _seconds = 4;
 			timer_to_spawn_next_prefab = (_seconds * 60);
 			
 			event_user(15); // Criar prefab

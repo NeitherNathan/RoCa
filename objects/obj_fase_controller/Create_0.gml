@@ -10,7 +10,11 @@ alarm[3] = 3;
 timer_to_spawn_next_prefab = 60; //Tempo inicial em frames
 
 // AQUI PODE AJUSTAR
+//valor inicial: 30
+limite_fase03 = 30;
+//valor inicial: 7.5
 velocidade = 7.5;
+//valor inicial: 0.005
 aceleracao = 0.005;
 tempo_por_fase = 60 * 30; // A contagem e feita por frames, entao fica 60 multiplicado pelos segundos
 tempo_por_fase_03 = 60 * 180;
