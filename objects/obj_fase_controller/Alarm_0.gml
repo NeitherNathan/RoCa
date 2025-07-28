@@ -9,7 +9,7 @@ if (!instance_exists(obj_fase_fade))
 	{
 		_x += global.cenario_width;
 	}
-	instance_create_depth(_x, 0, 0, obj_fase_fade);
+	instance_create_depth(_x, 0, 400, obj_fase_fade);
 }
 alarm[0] = tempo_por_fase; // Mudar fase
 fase_progresso++;

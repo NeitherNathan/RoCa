@@ -1,1 +1,1 @@
-draw_sprite(sprite_arvore, 0, x, y);
+//draw_sprite(sprite_arvore, 0, x, y);

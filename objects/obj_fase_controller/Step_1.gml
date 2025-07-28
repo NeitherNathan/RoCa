@@ -1,4 +1,4 @@
-	
+show_debug_message(alarm_get(2))
 	if (room == rm_fase)
 	{
 		velocidade += aceleracao;
@@ -14,11 +14,15 @@
 
 	if (room == rm_fase_03)
 	{
+		if (global.pause==false && global.morte== false){
 		if(velocidade <= limite_fase03)
 		{
 		velocidade += aceleracao;
 		}
-		show_debug_message(velocidade);
+		}
+		//var bg_id = layer_get_id("Backgrounds_Cidade")
+		//layer_hspeed(bg_id, game_is_freezed()?0:-2)
+		//show_debug_message(velocidade);
 
 	}
 	

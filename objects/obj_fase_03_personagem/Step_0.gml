@@ -1,4 +1,4 @@
-if (global.morte)
+if (game_is_freezed())
 	return;
 
 event_inherited();

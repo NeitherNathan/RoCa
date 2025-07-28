@@ -1,4 +1,5 @@
-draw_self();
+//draw_self();
+draw_set_color(c_white)
 draw_rectangle(bbox_left,     bbox_top,     bbox_right,     bbox_bottom,     true);
 draw_rectangle(bbox_left - 1, bbox_top - 1, bbox_right + 1, bbox_bottom + 1, true);
 draw_set_font(fnt_luckiest_guy_24);

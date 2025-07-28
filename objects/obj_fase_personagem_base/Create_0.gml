@@ -10,3 +10,8 @@ invencibilidade = false;
 ultima_colisao = noone;
 ima = false;
 slime_y = bbox_bottom;
+tempoescudo = 0;
+tempoima = 0;
+estavacomescudo = false;
+estavacomima = false; 
+

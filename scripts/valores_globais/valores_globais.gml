@@ -9,7 +9,7 @@ global.adereco_halo_equipado = false;
 global.adereco_slime_comprado = false;
 global.adereco_slime_equipado = false;
 global.admob_menu_proxima_recompenca = "vida_extra";
-global.admob_menu_videos_assistidos = 1;
+global.admob_menu_videos_assistidos = 0;
 global.cadastro_estado = noone;
 global.cadastro_feito = false;
 global.cadastro_paginas = 9;
@@ -31,6 +31,11 @@ global.moedas_coletadas = 0;
 global.moedas_coletadas_ultima_corrida = 0;
 global.monetizacao_pronto = false;
 global.mostrar_feedback_cadastro = false;
+global.codigo01 = false;
+global.codigo02 = false; 
+global.codigo03 = false; 
+global.codigo04 = false; 
+global.codigo05 = false; 
 //global.personagem_image_index = 0;
 //global.personagem_scale = 1;
 //global.personagem_sprite_index = spr_roca_standard_ro_run;
@@ -255,112 +260,112 @@ global.skins =
 		pular  : spr_roca_standard_ro_jump,
 		voar   : spr_roca_standard_ro_fly,
 		is_ca  : false,
-		nome   : "Ro"
+		nome   : "SUPER RO"
 	},
 	{ // 01
 		correr : spr_roca_standard_ca_run,
 		pular  : spr_roca_standard_ca_jump,
 		voar   : spr_roca_standard_ca_fly,
 		is_ca  : true,
-		nome   : "Ca"
+		nome   : "SUPER CA"
 	},
 	{ // 02
 		correr : spr_roca_variation_03_ro_run,
 		pular  : spr_roca_variation_03_ro_jump,
 		voar   : spr_roca_variation_03_ro_fly,
 		is_ca  : false,
-		nome   : "Ro 1"
+		nome   : "PIT STOP"
 	},
 	{ // 03
 		correr : spr_roca_variation_01_ca_run,
 		pular  : spr_roca_variation_01_ca_jump,
 		voar   : spr_roca_variation_01_ca_fly,
 		is_ca  : true,
-		nome   : "Ca 1"
+		nome   : "CAPITÃ CA"
 	},
 	{ // 04
 		correr : spr_roca_variation_02_ro_run,
 		pular  : spr_roca_variation_02_ro_jump,
 		voar   : spr_roca_variation_02_ro_fly,
 		is_ca  : false,
-		nome   : "Ro 2"
+		nome   : "CAPITÃO RO"
 	},
 	{ // 05
 		correr : spr_roca_variation_02_ca_run,
 		pular  : spr_roca_variation_02_ca_jump,
 		voar   : spr_roca_variation_02_ca_fly,
 		is_ca  : true,
-		nome   : "Ca 2"
+		nome   : "ESCARLATE"
 	},
 	{ // 06
 		correr : spr_roca_variation_04_ro_run,
 		pular  : spr_roca_variation_04_ro_jump,
 		voar   : spr_roca_variation_04_ro_fly,
 		is_ca  : false,
-		nome   : "Ro 3"
+		nome   : "PATRIOTA"
 	},
 	{ // 07
 		correr : spr_roca_variation_03_ca_run,
 		pular  : spr_roca_variation_03_ca_jump,
 		voar   : spr_roca_variation_03_ca_fly,
 		is_ca  : true,
-		nome   : "Ca 3"
+		nome   : "HORTELÃ"
 	},
 	{ // 08
 		correr : spr_roca_variation_01_ro_run,
 		pular  : spr_roca_variation_01_ro_jump,
 		voar   : spr_roca_variation_01_ro_fly,
 		is_ca  : false,
-		nome   : "Ro 4"
+		nome   : "SOMBROSO"
 	},
 	{ // 09
 		correr : spr_roca_variation_04_ca_run,
 		pular  : spr_roca_variation_04_ca_jump,
 		voar   : spr_roca_variation_04_ca_fly,
 		is_ca  : true,
-		nome   : "Ca 4"
+		nome   : "TREVA"
 	},
 	{ // 10
 		correr : spr_roca_variation_05_ro_run,
 		pular  : spr_roca_variation_05_ro_jump,
 		voar   : spr_roca_variation_05_ro_fly,
 		is_ca  : false,
-		nome   : "Ro 5"
+		nome   : "LAS VEGAS"
 	},
 	{ // 11
 		correr : spr_roca_variation_05_ca_run,
 		pular  : spr_roca_variation_05_ca_jump,
 		voar   : spr_roca_variation_05_ca_fly,
 		is_ca  : true,
-		nome   : "Ca 5"
+		nome   : "CHANTILLY"
 	},
 	{ // 12
 		correr : spr_roca_spy_ro_run,
 		pular  : spr_roca_spy_ro_jump,
 		voar   : spr_roca_spy_ro_fly,
 		is_ca  : false,
-		nome   : "Ro - Espião"
+		nome   : "Ro Espião"
 	},
 	{ // 13
 		correr : spr_roca_spy_ca_run,
 		pular  : spr_roca_spy_ca_jump,
 		voar   : spr_roca_spy_ca_fly,
 		is_ca  : true,
-		nome   : "Ca - Espiã"
+		nome   : "Ca Espiã"
 	},
 	{ // 14
 		correr : spr_roca_astronaut_ro_run,
 		pular  : spr_roca_astronaut_ro_jump,
 		voar   : spr_roca_astronaut_ro_fly,
 		is_ca  : false,
-		nome   : "Ro - Astronauta"
+		nome   : "Ro Astronauta"
 	},
 	{ // 15
 		correr : spr_roca_astronaut_ca_run,
 		pular  : spr_roca_astronaut_ca_jump,
 		voar   : spr_roca_astronaut_ca_fly,
 		is_ca  : true,
-		nome   : "Ca - Astronauta"
+		nome   : "Ca Astronauta"
 	}
 ];
 global.volume = 1;
@@ -375,10 +380,11 @@ function carregar_jogo()
 	global.powerup_escudo = round(ini_read_real("loja", "powerup_escudo", 5));
 	global.powerup_ima = round(ini_read_real("loja", "powerup_ima", 5));
 	global.powerup_vida_extra = round(ini_read_real("loja", "powerup_vida_extra", 5));
-	//global.cadastro_feito = round(ini_read_real("global", "cadastro_feito", false));
+	//Isso aqui tava comentado por algum motivo...
+	global.cadastro_feito = round(ini_read_real("global", "cadastro_feito", false));
 	global.quiz_habilitado = round(ini_read_real("global", "quiz_habilitado", false));
 	global.admob_menu_proxima_recompenca = ini_read_string("global", "admob_menu_proxima_recompenca", "");
-	global.admob_menu_videos_assistidos = round(ini_read_real("global", "admob_menu_videos_assistidos", 1));
+	global.admob_menu_videos_assistidos = round(ini_read_real("global", "admob_menu_videos_assistidos", 0));
 	for (var _i = 0; _i < array_length(global.skin_desbloqueada); _i++)
 	{
 		global.skin_desbloqueada[_i] = round(ini_read_real("loja", "skin_" + string(_i), global.skin_desbloqueada[_i]));
@@ -394,6 +400,11 @@ function carregar_jogo()
 	global.adereco_halo_equipado = round(ini_read_real("loja", "adereco_halo_equipado", 0));
 	global.adereco_slime_comprado = round(ini_read_real("loja", "adereco_slime_comprado", 0));
 	global.adereco_slime_equipado = round(ini_read_real("loja", "adereco_slime_equipado", 0));
+	global.codigo01 = round(ini_read_real("cod", "codigo01", 0));
+	global.codigo02 = round(ini_read_real("cod", "codigo02", 0));
+	global.codigo03 = round(ini_read_real("cod", "codigo03", 0));
+	global.codigo04 = round(ini_read_real("cod", "codigo04", 0));
+	global.codigo05 = round(ini_read_real("cod", "codigo05", 0));
 	ini_close();
 }
 
@@ -426,6 +437,11 @@ function salvar_jogo()
 	ini_write_real("loja", "adereco_halo_equipado", global.adereco_halo_equipado);
 	ini_write_real("loja", "adereco_slime_comprado", global.adereco_slime_comprado);
 	ini_write_real("loja", "adereco_slime_equipado", global.adereco_slime_equipado);
+	ini_write_real("cod", "codigo01", global.codigo01);
+	ini_write_real("cod", "codigo02", global.codigo02);
+	ini_write_real("cod", "codigo03", global.codigo03);
+	ini_write_real("cod", "codigo04", global.codigo04);
+	ini_write_real("cod", "codigo05", global.codigo05);
 	ini_close();
 }
 

@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "703652607382",
-    "project_id": "rocarun-testes",
-    "storage_bucket": "rocarun-testes.appspot.com"
+    "project_number": "822079183536",
+    "project_id": "rocarun-9bc09",
+    "storage_bucket": "rocarun-9bc09.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:703652607382:android:8134c6d0c85e3be18559b7",
+        "mobilesdk_app_id": "1:822079183536:android:34599250ef404ddcf73975",
         "android_client_info": {
           "package_name": "com.jumbbo.rocarun"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC_qHyhcQ8Mj_g2XRl3AXM1fLRc6tTanvU"
+          "current_key": "AIzaSyBO-ay7UBKSkRKThCrFQvpV-ruTDfIDxYE"
         }
       ],
       "services": {

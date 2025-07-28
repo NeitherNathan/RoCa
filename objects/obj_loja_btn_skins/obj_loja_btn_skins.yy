@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Store_skin_tab",
-    "path":"sprites/Store_skin_tab/Store_skin_tab.yy",
+    "name":"Store_skin_tab159",
+    "path":"sprites/Store_skin_tab159/Store_skin_tab159.yy",
   },
   "spriteMaskId":null,
   "visible":true,

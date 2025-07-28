@@ -11,7 +11,7 @@ timer_to_spawn_next_prefab = 60; //Tempo inicial em frames
 
 // AQUI PODE AJUSTAR
 //valor inicial: 30
-limite_fase03 = 30;
+limite_fase03 = 25;
 //valor inicial: 7.5
 velocidade = 7.5;
 //valor inicial: 0.005
@@ -36,6 +36,8 @@ fase_index = 0;
 fase_progresso = 0;
 ultimo_prefab = noone;
 limite_velocidade_index = 0;
+tempofase3 =0;
+alarmreal = false;
 
 // Nao apagar
 /*if (global.debug)

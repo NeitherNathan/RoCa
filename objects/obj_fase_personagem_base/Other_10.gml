@@ -17,6 +17,20 @@
 				global.pause_alpha = 0.0;
 				global.pause = false;
 				global.morte = true;
+				event_user(7);
+				
+				if (room == rm_fase_03)
+				{
+					var _manager = instance_find(obj_fase_controller, 0);
+					if (_manager != noone)
+					{
+						with(_manager){
+							event_user(3)
+						}
+		
+					}
+	
+				}
 				
 				alarm[0] = 60 * 6; // Tirar invencibilidade
 				global.controller.velocidade *= 0.9;

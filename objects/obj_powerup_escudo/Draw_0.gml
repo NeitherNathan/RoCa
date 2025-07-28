@@ -7,7 +7,9 @@ draw_set_valign(fa_middle);
 var _personagem = instance_find(obj_fase_personagem_base, 0);
 if (_personagem != noone)
 {
-	if (_personagem.ima)
+
+	
+	if (_personagem.ima || global.powerup_escudo <= 0)
 	{
 		draw_set_color(c_white)
 	}
@@ -20,7 +22,7 @@ if (_personagem != noone)
 	draw_text(bbox_right - _outline, bbox_top           , string(global.powerup_escudo));
 	draw_text(bbox_right           , bbox_top + _outline, string(global.powerup_escudo));
 	draw_text(bbox_right           , bbox_top - _outline, string(global.powerup_escudo));
-	if (_personagem.ima)
+	if (_personagem.ima|| global.powerup_escudo <= 0)
 	{
 		draw_set_color(c_grey)
 	}
@@ -28,5 +30,6 @@ if (_personagem != noone)
 	{
 		draw_set_color(c_white);
 	}
+	
 }
 draw_text(bbox_right, bbox_top, string(global.powerup_escudo));

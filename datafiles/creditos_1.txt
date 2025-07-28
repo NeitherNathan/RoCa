@@ -1,38 +1,50 @@
+Créditos
+ 
+
 Idealizadores:
-Consultório RoCa:
-                - Rogério Cupertino
-                - Carime Henrique Barboza
 
-Desenvolvedores:
-Produtor Executivo: Bruno Ramiro Calegari
+RoCa Odontologia
+ 
+
+Equipe de Desenvolvimento:
+
+Diretor de Projeto: Bruno Ramiro Calegari
 Game Designer / Level Designer: Bruno Ramiro Calegari
-Sound Designer: Bruno Ramiro Calegari
+Diretor de Som: Bruno Ramiro Calegari
 Programador: Bruno Hoffmann de Mattos
-Artista 2D de Personagem e Cenário: Julio Felipe Haruo Kawamoto
-Animador: Julio Felipe Haruo Kawamoto
-Artista de Interface: Julio Felipe Haruo Kawamoto
+Programador: Nathan Gabriel de Oliveira e Silva
+Artista Generalista: Julio Felipe Haruo Kawamoto
+ 
 
-Suporte:
-Brandown
-Artur Mittelbach
-Derick Davidson Cordeiro
+Créditos Artísticos:
+
+Música e Efeitos Sonoros: https://freesound.org
+
+
+
+- Agradecimentos -
+ 
+Suporte Técnico:
+
 Apoena de Melo Santos
+Artur Mittelbach
+Be Social Comunicação
+Derick Davidson Cordeiro
+Felipe Russi Marques
+Gabriel Lucca Toigo Detofol
+ 
 
-Apoio:
+Testadores Beta:
+
+Andrew, Beatriz, Felipe, Gabriel, Leonardo, Lorena e Matheus
+ 
+
+Agradecimentos Especiais:
+
 Todos os nossos familiares e amigos
 Helena da Silva Prado
-Fabiano
-Fabio Rossini Sluzala
-Felipe Russi Marques
+Fábio Rossini Sluzala
 
-Game Testers:
-Matheus
-Leonardo
-Lorena
-Felipe
-Andrew
-Gabriel
-Beatriz
 
 
 
